@@ -97,7 +97,7 @@ int main(int argc, char* argv[])
 int read()
 {
     char pz;
-    file = fopen("plansza.txt", "rt");
+    file = fopen("puzzle.txt", "rt");
     if (!file)
         return 1;
 
