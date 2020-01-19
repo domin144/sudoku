@@ -1,0 +1,9 @@
+1 x x 4 6 x 3 5 9
+x x 7 x 9 3 x x x
+x 3 9 8 x x 4 2 7
+9 x 4 5 3 x x x x
+x x 3 x x x 5 9 x
+x 5 1 x x 6 x x x
+x 1 6 x 8 x x 7 x
+8 x x 1 x 5 x x 3
+x x x x 4 9 x 8 x

@@ -1,0 +1,6 @@
+The application works very simply.
+To receive result, one has to create file "puzzle.txt" in the current working directory. The file format is as in the examplary tables: 9x9 digits or 'x' separated with spaces.
+After application is run the result will be found in file "solution.txt".
+
+The application was around 2005, when I didn't know what version controll is, that globals are bad and that limiting number of variables will not save any memory.
+Now, I just translated and reformatted the code.
